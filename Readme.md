@@ -30,6 +30,7 @@ this.user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 
 
 ### Use
 ```/alert (coinname)``` Alert enable every minutes
+
 ```stop``` Alert disable
 
 ### Demo
